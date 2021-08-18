@@ -7,3 +7,5 @@ Table of Contents:
   - [Instructions](https://github.com/Yash2108/MLLab/blob/main/Lab%201/Lab%201%20Instructions.docx)
 - Lab 2: Finding the best feature
   - [Instructions](https://github.com/Yash2108/MLLab/blob/main/Lab%202/Lab%202%20Instructions.docx)
+- Lab 3: Pre-pruning
+  - [Instructions](https://github.com/Yash2108/MLLab/blob/main/Lab%202/Lab%203%20Instructions.docx)
